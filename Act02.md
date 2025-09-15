@@ -1,3 +1,3 @@
-# ACT02
-Este cambio fue hecho por el usuario @jgonzalez  (Manejo de clonflicto por jgonzalez)
+# ACT02  
+Este cambio fue hecho por el usuario @jgonzalez y @gpena (Manejo de conflicto por ambos)  
 Estructura validada
